@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/simpsons-quotes/static/css/main.34de6062.chunk.css",
-    "main.js": "/simpsons-quotes/static/js/main.679b8e48.chunk.js",
-    "main.js.map": "/simpsons-quotes/static/js/main.679b8e48.chunk.js.map",
-    "runtime-main.js": "/simpsons-quotes/static/js/runtime-main.3c2da527.js",
-    "runtime-main.js.map": "/simpsons-quotes/static/js/runtime-main.3c2da527.js.map",
-    "static/js/2.2ecb99bd.chunk.js": "/simpsons-quotes/static/js/2.2ecb99bd.chunk.js",
-    "static/js/2.2ecb99bd.chunk.js.map": "/simpsons-quotes/static/js/2.2ecb99bd.chunk.js.map",
-    "index.html": "/simpsons-quotes/index.html",
-    "precache-manifest.bb09f9871974c0aefc2a47383b724035.js": "/simpsons-quotes/precache-manifest.bb09f9871974c0aefc2a47383b724035.js",
-    "service-worker.js": "/simpsons-quotes/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/simpsons-quotes/static/css/main.34de6062.chunk.css.map"
+    "main.css": "/simpsons-quote/static/css/main.34de6062.chunk.css",
+    "main.js": "/simpsons-quote/static/js/main.e017ede2.chunk.js",
+    "main.js.map": "/simpsons-quote/static/js/main.e017ede2.chunk.js.map",
+    "runtime-main.js": "/simpsons-quote/static/js/runtime-main.d84af0f2.js",
+    "runtime-main.js.map": "/simpsons-quote/static/js/runtime-main.d84af0f2.js.map",
+    "static/js/2.2ecb99bd.chunk.js": "/simpsons-quote/static/js/2.2ecb99bd.chunk.js",
+    "static/js/2.2ecb99bd.chunk.js.map": "/simpsons-quote/static/js/2.2ecb99bd.chunk.js.map",
+    "index.html": "/simpsons-quote/index.html",
+    "precache-manifest.b1718985df1fc8c2b5fb937b407e9730.js": "/simpsons-quote/precache-manifest.b1718985df1fc8c2b5fb937b407e9730.js",
+    "service-worker.js": "/simpsons-quote/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/simpsons-quote/static/css/main.34de6062.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c2da527.js",
+    "static/js/runtime-main.d84af0f2.js",
     "static/js/2.2ecb99bd.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.679b8e48.chunk.js"
+    "static/js/main.e017ede2.chunk.js"
   ]
 }
