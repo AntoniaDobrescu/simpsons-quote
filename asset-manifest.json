@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/AntoniaDobrescu/simpsons-quotes/static/css/main.34de6062.chunk.css",
-    "main.js": "/AntoniaDobrescu/simpsons-quotes/static/js/main.2238f4f7.chunk.js",
-    "main.js.map": "/AntoniaDobrescu/simpsons-quotes/static/js/main.2238f4f7.chunk.js.map",
-    "runtime-main.js": "/AntoniaDobrescu/simpsons-quotes/static/js/runtime-main.4b929a65.js",
-    "runtime-main.js.map": "/AntoniaDobrescu/simpsons-quotes/static/js/runtime-main.4b929a65.js.map",
-    "static/js/2.2ecb99bd.chunk.js": "/AntoniaDobrescu/simpsons-quotes/static/js/2.2ecb99bd.chunk.js",
-    "static/js/2.2ecb99bd.chunk.js.map": "/AntoniaDobrescu/simpsons-quotes/static/js/2.2ecb99bd.chunk.js.map",
-    "index.html": "/AntoniaDobrescu/simpsons-quotes/index.html",
-    "precache-manifest.19e701a8fcf47ec2bc23a49fc6a2bde8.js": "/AntoniaDobrescu/simpsons-quotes/precache-manifest.19e701a8fcf47ec2bc23a49fc6a2bde8.js",
-    "service-worker.js": "/AntoniaDobrescu/simpsons-quotes/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/AntoniaDobrescu/simpsons-quotes/static/css/main.34de6062.chunk.css.map"
+    "main.css": "/simpsons-quotes/static/css/main.34de6062.chunk.css",
+    "main.js": "/simpsons-quotes/static/js/main.679b8e48.chunk.js",
+    "main.js.map": "/simpsons-quotes/static/js/main.679b8e48.chunk.js.map",
+    "runtime-main.js": "/simpsons-quotes/static/js/runtime-main.3c2da527.js",
+    "runtime-main.js.map": "/simpsons-quotes/static/js/runtime-main.3c2da527.js.map",
+    "static/js/2.2ecb99bd.chunk.js": "/simpsons-quotes/static/js/2.2ecb99bd.chunk.js",
+    "static/js/2.2ecb99bd.chunk.js.map": "/simpsons-quotes/static/js/2.2ecb99bd.chunk.js.map",
+    "index.html": "/simpsons-quotes/index.html",
+    "precache-manifest.bb09f9871974c0aefc2a47383b724035.js": "/simpsons-quotes/precache-manifest.bb09f9871974c0aefc2a47383b724035.js",
+    "service-worker.js": "/simpsons-quotes/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/simpsons-quotes/static/css/main.34de6062.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b929a65.js",
+    "static/js/runtime-main.3c2da527.js",
     "static/js/2.2ecb99bd.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.2238f4f7.chunk.js"
+    "static/js/main.679b8e48.chunk.js"
   ]
 }
